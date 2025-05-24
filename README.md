@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides the comprehensive exploratory data analysis (EDA) of a "Sleep Health and Lifestyle" dataset. The goal is to uncover insights into sleep patterns, their relationship with various lifestyle factors, and potential correlations with sleep disorders. The analysis utilizes Python's powerful data manipulation and visualization libraries: Pandas, Matplotlib, and Seaborn.
+This project provides a comprehensive exploratory data analysis (EDA) of a "Sleep Health and Lifestyle" dataset. The goal is to uncover insights into sleep patterns, their relationship with various lifestyle factors, and potential correlations with sleep disorders. The analysis utilizes Python's powerful data manipulation and visualization libraries: Pandas, Matplotlib, and Seaborn.
 
 ## Dataset
 
