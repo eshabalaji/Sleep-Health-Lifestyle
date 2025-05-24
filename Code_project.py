@@ -6,7 +6,7 @@ import seaborn as sns
 
 #To display the Data set
 
-data=pd.read_csv('C:\\Users\\balaj\\Downloads\\archive (2)\\Sleep_health_and_lifestyle_dataset.csv')
+data=pd.read_csv('Sleep_health_and_lifestyle_dataset.csv')
 data
 
 data.describe()
